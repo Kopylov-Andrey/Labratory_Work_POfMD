@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laboratory_Work_1_POfMO</string>
+    <string name="button1">Button1</string>
+    <string name="afterClick">***</string>
+
+    <string name="button2">Button2</string>
+    <string name="afterClick">***</string>
+
+    <string name="button3">Button3</string>
+    <string name="afterClick">***</string>
+</resources>
